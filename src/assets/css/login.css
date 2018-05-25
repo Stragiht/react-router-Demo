@@ -1,0 +1,21 @@
+.login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+.box{
+    border: 1px solid red;
+}
+.login .box input{
+    display: block;
+    height: 24px;
+    width: 200px;
+    margin: 40px;
+}
+.login .box button{
+   margin-left: 80px;
+    width: 100px;
+    height: 30px;
+}
